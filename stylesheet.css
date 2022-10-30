@@ -4,7 +4,7 @@ body{
 .header{
   width:100%;
   height: 100vh; 
- background-image: url(/img/arrows.png);
+ background-image: url(https://github.com/YukiSeino/Sprout-mac/blob/main/arrows.png?raw=true);
  background-size: cover;
  background-position:center;
    }
