@@ -1,0 +1,431 @@
+body{
+  background-color:black;
+}
+.header{
+  width:100%;
+  height: 100vh; 
+ background-image: url(/img/arrows.png);
+ background-size: cover;
+ background-position:center;
+   }
+.header-logo{
+  font-size:200px;
+  text-align:center;
+  color:red;
+  -webkit-text-stroke: 3px black;
+}
+.site-explain{
+  color:yellow;
+  text-align:center;
+  font-size:55px;
+  padding:95px 0px;
+  -webkit-text-stroke: 1px turquoise;
+
+}
+
+.channnel1{
+  color:white;
+  list-style:none;
+  display:flex;
+  justify-content:space-around;
+  margin-right:75px;
+}
+.tomo{
+  margin-left:-20px;
+  
+}
+.kai{
+  margin-left:-40px;
+}
+.mikuru{
+  margin-left:-10px;
+  margin-right:-30px;
+}
+.pictures1{
+  display:flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.pictures2{
+display:flex;
+flex-flow:column;
+padding-left:70px;
+}
+.link1{
+  margin-top:-147px;
+  display:flex;
+  flex-flow:column;
+  font-size:31px;
+  margin-left:90px;
+}
+.pictures3{
+  display:flex;
+  flex-flow:column;
+  margin-top:-147px;
+  margin-left:492px;
+  }
+  .link2{
+    margin-top:-166px;
+    display:flex;
+    flex-flow:column;
+    font-size:30px;
+    margin-left:510px;
+  }
+  .pictures4{
+    display:flex;
+    flex-flow:column;
+    margin-top:-147px;
+    margin-left:935px;
+    }
+    .link3{
+      margin-top:-166px;
+      display:flex;
+      flex-flow:column;
+      font-size:30px;
+      margin-left:950px;
+    
+    }
+    .channnel2{
+      color:white;
+      list-style:none;
+      display:flex;
+      justify-content:space-around;
+      margin-right:75px;
+    }
+    .anioto{
+      margin-left:-10px;
+    }
+    .issei{
+      margin-left:10px;
+    }
+    .korone{
+      margin-left:-10px;
+      margin-right:-30px;
+    }
+    .pictures5{
+      display:flex;
+      justify-content: center;
+      justify-content: space-evenly;
+    }
+    .channnel3{
+      color:white;
+      list-style:none;
+      display:flex;
+      justify-content:space-around;
+      margin-right:75px;
+    }
+    .pekora{
+      margin-left:-10px;
+    }
+    .vamyun{
+      margin-left:10px;
+    }
+    .kaji{
+      margin-left:-10px;
+      margin-right:-30px;
+    }
+    .pictures6{
+      display:flex;
+      justify-content: center;
+      justify-content: space-evenly;
+    }
+    .channnel4{
+      color:white;
+      list-style:none;
+      display:flex;
+      justify-content:space-around;
+      margin-right:75px;
+    }
+    .pictures7{
+      display:flex;
+      justify-content: center;
+      justify-content: space-evenly;
+    }
+  
+    
+    .gatchman{
+      margin-left:-10px;
+      margin-right:-30px;
+    }
+    .channnel5{
+      color:white;
+      list-style:none;
+      display:flex;
+      justify-content:space-around;
+      margin-right:75px;
+    }
+    .pictures8{
+      display:flex;
+      justify-content: center;
+      justify-content: space-evenly;
+    }
+    .guardman{
+      margin-left:-10px;
+    }
+    .kinoshita{
+      margin-left:10px;
+    }
+    .kimagurecook{
+      margin-left:-10px;
+      margin-right:-30px;
+    }
+    .channnel6{
+      color:white;
+      list-style:none;
+      display:flex;
+      justify-content:space-around;
+      margin-right:75px;
+    }
+    .pictures9{
+      display:flex;
+      justify-content: center;
+      justify-content: space-evenly;
+    }
+    .kiyo{
+      margin-left:-10px;
+    }
+    .kirizaki{
+      margin-left:10px;
+    }
+    .kirin{
+      margin-left:-10px;
+      margin-right:-30px;
+    }
+    .channnel7{
+      color:white;
+      list-style:none;
+      display:flex;
+      justify-content:space-around;
+      margin-right:75px;
+    }
+    .pictures10{
+      display:flex;
+      justify-content: center;
+      justify-content: space-evenly;
+    }
+    .channnel8{
+      color:white;
+      list-style:none;
+      display:flex;
+      justify-content:space-around;
+      margin-right:75px;
+    }
+    .pictures11{
+      display:flex;
+      justify-content: center;
+      justify-content: space-evenly;
+    }
+    .channnel9{
+      color:white;
+      list-style:none;
+      display:flex;
+      justify-content:space-around;
+      margin-right:75px;
+    }
+    .pictures12{
+      display:flex;
+      justify-content: center;
+      justify-content: space-evenly;
+    }
+    .channnel10{
+      color:white;
+      list-style:none;
+      display:flex;
+      justify-content:space-around;
+      margin-right:75px;
+    }
+    .pictures13{
+      display:flex;
+      justify-content: center;
+      justify-content: space-evenly;}
+      .channnel11{
+        color:white;
+        list-style:none;
+        display:flex;
+        justify-content:space-around;
+        margin-right:75px;
+      }
+      .pictures14{
+        display:flex;
+        justify-content: center;
+        justify-content: space-evenly;}
+        .channnel12{
+          color:white;
+          list-style:none;
+          display:flex;
+          justify-content:space-around;
+          margin-right:75px;
+        }
+        .pictures15{
+          display:flex;
+          justify-content: center;
+          justify-content: space-evenly;}
+          .channnel13{
+            color:white;
+            list-style:none;
+            display:flex;
+            justify-content:space-around;
+            margin-right:75px;
+          }
+          .pictures16{
+            display:flex;
+            justify-content: center;
+            justify-content: space-evenly;}
+        
+            .channnel14{
+              color:white;
+              list-style:none;
+              display:flex;
+              justify-content:space-around;
+              margin-right:75px;
+            }
+            .pictures17{
+              display:flex;
+              justify-content: center;
+              justify-content: space-evenly;}
+          
+              .channnel15{
+                color:white;
+                list-style:none;
+                display:flex;
+                justify-content:space-around;
+                margin-right:75px;
+              }
+              .pictures18{
+                display:flex;
+                justify-content: center;
+                justify-content: space-evenly;}
+                
+                .channnel16{
+                  color:white;
+                  list-style:none;
+                  display:flex;
+                  justify-content:space-around;
+                  margin-right:75px;
+                }
+                .pictures19{
+                  display:flex;
+                  justify-content: center;
+                  justify-content: space-evenly;}
+                  .channnel17{
+                    color:white;
+                    list-style:none;
+                    display:flex;
+                    justify-content:space-around;
+                    margin-right:75px;
+                  }
+                  .pictures20{
+                    display:flex;
+                    justify-content: center;
+                    justify-content: space-evenly;}
+                    .channnel18{
+                      color:white;
+                      list-style:none;
+                      display:flex;
+                      justify-content:space-around;
+                      margin-right:75px;
+                    }
+                    .pictures21{
+                      display:flex;
+                      justify-content: center;
+                      justify-content: space-evenly;}
+                      .channnel19{
+                        color:white;
+                        list-style:none;
+                        display:flex;
+                        justify-content:space-around;
+                        margin-right:75px;
+                      }
+                      .pictures22{
+                        display:flex;
+                        justify-content: center;
+                        justify-content: space-evenly;}
+                        .channnel20{
+                          color:white;
+                          list-style:none;
+                          display:flex;
+                          justify-content:space-around;
+                          margin-right:75px;
+                        }
+                        .pictures23{
+                          display:flex;
+                          justify-content: center;
+                          justify-content: space-evenly;}
+                          .channnel21{
+                            color:white;
+                            list-style:none;
+                            display:flex;
+                            justify-content:space-around;
+                            margin-right:75px;
+                          }
+                          .pictures24{
+                            display:flex;
+                            justify-content: center;
+                            justify-content: space-evenly;}
+                            .channnel22{
+                              color:white;
+                              list-style:none;
+                              display:flex;
+                              justify-content:space-around;
+                              margin-right:75px;
+                            }
+                            .pictures25{
+                              display:flex;
+                              justify-content: center;
+                              justify-content: space-evenly;}
+                              .channnel23{
+                                color:white;
+                                list-style:none;
+                                display:flex;
+                                justify-content:space-around;
+                                margin-right:75px;
+                              }
+                              .pictures26{
+                                display:flex;
+                                justify-content: center;
+                                justify-content: space-evenly;}
+                                .channnel24{
+                                  color:white;
+                                  list-style:none;
+                                  display:flex;
+                                  justify-content:space-around;
+                                  margin-right:75px;
+                                }
+                                .pictures27{
+                                  display:flex;
+                                  justify-content: center;
+                                  justify-content: space-evenly;}
+                                  .channnel25{
+                                    color:white;
+                                    list-style:none;
+                                    display:flex;
+                                    justify-content:space-around;
+                                    margin-right:75px;
+                                  }
+                                  .pictures28{
+                                    display:flex;
+                                    justify-content: center;
+                                    justify-content: space-evenly;}
+                                    .channnel26{
+                                      color:white;
+                                      list-style:none;
+                                      display:flex;
+                                      justify-content:space-around;
+                                      margin-right:75px;
+                                    }
+                                    .pictures29{
+                                      display:flex;
+                                      justify-content: center;
+                                      justify-content: space-evenly;}
+                                      .channnel27{
+                                        color:white;
+                                        list-style:none;
+                                        display:flex;
+                                        justify-content:space-around;
+                                        margin-right:75px;
+                                      }
+                                      .pictures30{
+                                        display:flex;
+                                        justify-content: center;
+                                        justify-content: space-evenly;}
+                                 
